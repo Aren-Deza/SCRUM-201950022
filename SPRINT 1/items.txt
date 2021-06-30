@@ -1,0 +1,18 @@
+WEB DEVELOPMENT PROJECT - ARTIST'S PORTFOLIO
+CREATED BY:	Aren Pedronio Deza, 
+		CMSC 126 Section 1,
+		2019-50022
+
+SPRINT_1 contents
+
+SCRUM
+- scrum video - sprint 1 discussion
+- scrum pdf - sprint 1 artifacts
+
+SITEMAP
+- sitemap video - sitemap discussion
+- sitemap pdf
+
+WIREFRAME
+- wireframe video - wireframe discussion
+- wireframe pdf
